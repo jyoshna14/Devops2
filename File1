@@ -5,3 +5,4 @@ c = d
 b = c+d
 d = c
 a = b+c
+d = e
