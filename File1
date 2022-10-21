@@ -3,3 +3,4 @@ c = a+b
 print c
 c = d
 b = c+d
+d = c
